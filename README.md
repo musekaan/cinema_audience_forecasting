@@ -1,4 +1,4 @@
-# cinema_audience_forecasting
+
 # Cinema Audience Count Prediction | Kaggle Competition (IIT Madras)
 
 ## Overview
