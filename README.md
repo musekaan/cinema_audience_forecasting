@@ -1,4 +1,4 @@
-
+![view](images/monday saturday.png)
 # Cinema Audience Count Prediction | Kaggle Competition (IIT Madras)
 
 ## Overview
